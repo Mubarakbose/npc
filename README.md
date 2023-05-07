@@ -13,10 +13,11 @@ WHAT YOU NEED TO RUN THIS
 3. Open phpMyAdmin interface on you browser. (can be opened form XAMP/WAMP/MAMP) 
     - If it fails, you can find a supporting FAQs on apachefriends.org or on YouTube. 
 4. create a database and name it "npc" 
-5. Go to npc and import the npc.sql file in the Database folder of this project. 
-6. Copy or Cut the NPC project folder and paste it in "WWW (if you installed WAMP or MAMP)" or "htdocs (if you installed XAMP)" 
-7. Open your browser in a new tab and enter localhost/npc 
-8. By default, you need to login first before you can have access to anything. Use "Staff" as Username and Password (Case-sensitive)
+5. Clone this repository to your PC and save the files in a single folder and take the folder to the apache server folder 
+    - "WWW (if you installed WAMP or MAMP)" or "htdocs (if you installed XAMP)" 
+7. Import the npc.sql file in the Database folder of this project. 
+8. Open your browser in a new tab and enter localhost/npc 
+9. By default, you need to login first before you can have access to anything. Use "Staff" as Username and Password (Case-sensitive)
 
 ## WEB APP FEATURES 
 1. Login and logout
