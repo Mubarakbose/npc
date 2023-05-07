@@ -1,0 +1,25 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="npc.com.ng" resolutions="1x" timestamp="1479964783976">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_a-master.css" crc="25589149" ref="reports:index:add-citizen:logout"/>
+    <file name="reports.css" crc="388654551" ref="reports"/>
+    <file name="index.css" crc="306580753" ref="index"/>
+    <file name="add-citizen.css" crc="337418334" ref="add-citizen"/>
+    <file name="logout.css" crc="128905498" ref="logout"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:add-citizen:reports:logout"/>
+    <file name="museutils.js" crc="183364071" ref="index:add-citizen:reports:logout"/>
+    <file name="pie.js" crc="3827607177" ref="index:add-citizen:reports:logout"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:add-citizen:reports:logout"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:add-citizen:reports:logout"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:add-citizen:reports:logout"/>
+  </folder>
+  <folder name="images">
+    <file name="img-20161124-wa0001.jpg" crc="531408563" seo="true" ref="index:add-citizen:reports:logout"/>
+  </folder>
+  <file name="index.html" crc="454842241" seo="true" mt="1479964738648" redirect="true"/>
+  <file name="add-citizen.html" crc="3887409391" seo="true" mt="1479964738648" redirect="true"/>
+  <file name="reports.html" crc="392425650" seo="true" mt="1479964738648" redirect="true"/>
+  <file name="logout.html" crc="3809626934" seo="true" mt="1479964738648" redirect="true"/>
+</manifest>
