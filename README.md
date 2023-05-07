@@ -4,7 +4,7 @@ WHAT YOU NEED TO RUN THIS
 1. Apache Testing Server (WAMP Server, MAMP or XAMP)
 2. Web browser
 
-##HOW TO RUN THIS PROJECT 
+## HOW TO RUN THIS PROJECT 
 1. Download and Install WAMP or XAMP(for Windows OS) or MAMP(for MacOS) on your PC. 
     - at installation you will see the directory where the app will be installed "mostly in C: driver"
     - for WAMP or MAMP, the server folder is called "www" found in the C: drive or the drive you have chosen for installation.
@@ -18,7 +18,7 @@ WHAT YOU NEED TO RUN THIS
 7. Open your browser in a new tab and enter localhost/npc 
 8. By default, you need to login first before you can have access to anything. Use "Staff" as Username and Password (Case-sensitive)
 
-##WEB APP FEATURES 
+## WEB APP FEATURES 
 1. Login and logout
 2. Register a Citizen 
 3. View Population Reports  
