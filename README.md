@@ -1,5 +1,5 @@
 ## NPC PROJECT
-This project is a PHP and MySQL web application for population data collection and visualization in a table form. 
+This project is a PHP and MySQL web application for population data collection and visualization in a tabular form. 
 WHAT YOU NEED TO RUN THIS 
 1. Apache Testing Server (WAMP Server, MAMP or XAMP)
 2. Web browser
